@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/weather-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../framework/weather-util-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/mysql-connector-java-8.0.23.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/commons-dbcp2-2.9.0/commons-dbcp2-2.9.0-tests.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/commons-dbcp2-2.9.0/commons-dbcp2-2.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../../../framework/commons-dbcp2-2.9.0/commons-dbcp2-2.9.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../framework/commons-dbcp2-2.9.0/commons-dbcp2-2.9.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/commons-dbcp2-2.9.0/commons-dbcp2-2.9.0-test-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/c3p0-0.9.5.5/lib/c3p0-0.9.5.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/c3p0-0.9.5.5/lib/c3p0-oracle-thin-extras-0.9.5.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/c3p0-0.9.5.5/lib/mchange-commons-java-0.2.19.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/apiguardian-api-1.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/junit-jupiter-api-5.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/junit-jupiter-engine-5.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/junit-jupiter-params-5.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/junit-platform-commons-1.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/junit-platform-engine-1.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/junit/opentest4j-1.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-aop-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-aspects-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-beans-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-indexer-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-support-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-core-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-expression-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-instrument-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jcl-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jdbc-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jms-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-messaging-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-orm-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-oxm-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-test-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-tx-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-web-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webflux-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webmvc-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-websocket-5.2.9.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-aop-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-aspects-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-beans-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-indexer-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-support-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-core-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-expression-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-instrument-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jcl-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jdbc-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jms-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-messaging-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-orm-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-oxm-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-test-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-tx-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-web-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webflux-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webmvc-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-websocket-5.2.9.RELEASE-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-aop-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-aspects-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-beans-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-beans-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-indexer-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-context-support-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-core-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-core-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-expression-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-instrument-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jcl-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jdbc-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jdbc-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-jms-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-messaging-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-messaging-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-orm-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-oxm-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-test-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-test-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-tx-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-tx-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-web-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-web-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webflux-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webflux-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webmvc-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-webmvc-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../framework/spring-framework-5.2.9.RELEASE/libs/spring-websocket-5.2.9.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/jdom-2.0.6/dom4j-2.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/jdom-2.0.6/jdom-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../framework/xml/jsoup-1.14.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

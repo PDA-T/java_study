@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book>
+	<books id="1">
+		<name>徐玉龙</name>
+		<nianling>19</nianling>
+		<shenfenzheng>410302200211052017</shenfenzheng>
+	</books>
+	<books id="2">
+		<name>张征</name>
+		<nianling>19</nianling>
+	</books>
+	<books id="3">
+		<name>陈清源</name>
+		<nianling>19</nianling>
+	</books>
+</book>

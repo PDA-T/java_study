@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="groovy-2.5.15" type="groovy-sdk">
+    <properties version="2.5.15" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-bsf-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-cli-picocli-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-ant-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-cli-commons-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-datetime-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-dateutil-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-docgenerator-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-groovydoc-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-jmx-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-json-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-json-direct-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-groovysh-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-jsr223-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-nio-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-servlet-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-macro-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-sql-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-templates-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-swing-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-test-junit5-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-test-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-testng-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-console-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-xml-2.5.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-2.5.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-ant-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-bsf-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-cli-commons-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-cli-picocli-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-console-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-datetime-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-dateutil-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-groovydoc-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-groovysh-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-jmx-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-docgenerator-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-json-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-json-direct-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-jsr223-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-macro-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-servlet-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-nio-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-sql-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-templates-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-swing-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-test-junit5-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-test-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-testng-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-xml-2.5.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JavaWebMVC/lib/groovy-2.5.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
